@@ -1,2 +1,5 @@
 requests
 HTMLParser
+nlp_rake
+matplotlib
+wordcloud

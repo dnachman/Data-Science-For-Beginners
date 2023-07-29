@@ -20,9 +20,9 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
-| Vaccination | | | | |
-| Productivity | | | | |
+| Education |Grading curves by demographics, teacher,etc |Grades, demo, teacher profile, student profile | tabular | effective teachers, hardest courses, etc |
+| Vaccination |Health outcomes / side effects post vaccination |baseline occurences of disease in population + occurences after vaccination (or after illness) | Tabular |Variance - inc/dec or occurence  |
+| Productivity |Finding the most relevant information in documents/emails/chats |Text documents |Unstructured blobs | most frequently seen items / items with most relations |
 
 ## Rubric
 
